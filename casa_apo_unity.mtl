@@ -1,0 +1,30 @@
+newmtl No Name
+Kd 1 1 1
+illum 2
+
+newmtl roof
+Kd 1 1 1
+map_Kd null
+map_Bump null
+illum 2
+
+newmtl Default-Material
+Kd 1 1 1
+illum 2
+
+newmtl carpet
+Kd 0.2452422 0.5318279 0.9264706
+map_Kd null
+map_Bump null
+illum 2
+
+newmtl elfaWhite Melamine_xl
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl whitedesk
+Kd 1 1 1
+map_Kd null
+illum 2
+
